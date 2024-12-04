@@ -1,1 +1,4 @@
-# dynamic_control_of_neural_manifolds
+# Dynamic control of neural manifolds
+Lehr, Kumar, and Tetzlaff
+
+Code to produce figures from paper.
